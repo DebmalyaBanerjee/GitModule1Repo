@@ -4,8 +4,4 @@ int profit()
 {
 	return 0.30 cr
 }
-int version()
-{
-	return 7.0.25
-	return 7.0.26
-}
+
