@@ -9,3 +9,7 @@ int version()
 	return 7.0.25
 	return 7.0.26
 }
+string ottseries()
+{
+	return "the railway men"
+}
