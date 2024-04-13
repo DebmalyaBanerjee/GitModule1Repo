@@ -1,5 +1,2 @@
 Third file c.java
-int version()
-{
-	return 7.0.27
-}
+My name is Billa, Deadly Billa, Only Billa
